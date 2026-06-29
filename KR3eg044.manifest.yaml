@@ -1,0 +1,187 @@
+canonical_identifier: bkk:krp/KR3eg044/v1
+canonical_location: https://kanripo.org/bkk/KR3eg044/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 痙病與腦膜炎全書
+  identifiers:
+    krp: KR3eg044
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat02200
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg044.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg044_000.yaml, hash: 'sha256:a35f890451089df015d0d94a61a3255ea6dba03771a4f25e0b7cab350f3acd46'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg044_000.markers.yaml, hash: 'sha256:123348a85390ebc45c157e251f7319d97585412d535fbea327cdb0a4996b435e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1226
+  label: 曾序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d3.h1s1
+    span:
+    - front
+    - 1226
+    - 4407
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 756
+  label: 例言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d5.h1s1
+    span:
+    - body
+    - 756
+    - 2362
+  label: 第一篇正名
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d6.h1s1
+    span:
+    - body
+    - 2362
+    - 4267
+  label: 第二篇溯源
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d7.h1s1
+    span:
+    - body
+    - 4267
+    - 6255
+  label: 第三篇原因
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d8.h1s1
+    span:
+    - body
+    - 6255
+    - 7943
+  label: 第四篇辨症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d9.h1s1
+    span:
+    - body
+    - 7943
+    - 10737
+  label: 第五篇類別
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d10.h1s1
+    span:
+    - body
+    - 10737
+    - 12449
+  label: 第六篇病理
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d11.h1s1
+    span:
+    - body
+    - 12449
+    - 14650
+  label: 第七篇診斷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d12.h1s1
+    span:
+    - body
+    - 14650
+    - 18501
+  label: 第八篇治療
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d13.h1s1
+    span:
+    - body
+    - 18501
+    - 46934
+  label: 第九篇詮方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d13d2
+    span:
+    - body
+    - 18506
+    - 34005
+  label: 甲宣發太陽之劑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d13d3
+    span:
+    - body
+    - 34005
+    - 46934
+  label: 乙開泄厥陰之劑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d14.h1s1
+    span:
+    - body
+    - 46934
+    - 57704
+  label: 第十篇驗案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg044_jc_000-d15.h1s1
+    span:
+    - body
+    - 57704
+    - 58483
+  label: 痙病與腦膜炎全書跋
+  type: section
+  level: 1
+hash: sha256:e4042967265e6cb3386c372ba669bf1f3e025b83698e93ee3e7fcc3269391d47
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
