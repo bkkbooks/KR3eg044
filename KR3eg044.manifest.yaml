@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg044/v1
 canonical_location: https://kanripo.org/bkk/KR3eg044/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 痙病與腦膜炎全書
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg044_000.yaml, hash: 'sha256:5374a3ffca2dba84daf453c86768009844b072b79a000f52c354820e3a778f93'}
+  - {seq: 0, filename: KR3eg044_000.yaml, hash: 'sha256:4ce7ce7761c8d23367600ae6c9d775fd5229f35c9c2706419928ed0e88097c65'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg044_000.markers.yaml, hash: 'sha256:069b3c5bba5a53bdae2bd27ae210e0527928a80565b07299d2c85533a64f40dd'}
+  - {seq: 0, role: markers, filename: assets/KR3eg044_000.markers.yaml, hash: 'sha256:001eea77f6a6d94ea7ed19b76e35f3f6572b5b0ebde8abb028fd9365831ab0b7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -181,4 +181,7 @@ table_of_contents:
   label: 痙病與腦膜炎全書跋
   type: section
   level: 1
-hash: sha256:180f5c9b4932a58825a22937f3abffbe4366abcf576d2fb75f3dd84ca8490183
+hash: sha256:846ad433f987fbb96f8e5045ac2059485391f60f7549479f9275f1df5f3e1cc3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
