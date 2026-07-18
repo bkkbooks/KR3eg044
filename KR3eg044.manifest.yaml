@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg044_000.yaml, hash: 'sha256:4ce7ce7761c8d23367600ae6c9d775fd5229f35c9c2706419928ed0e88097c65'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg044_000.markers.yaml, hash: 'sha256:001eea77f6a6d94ea7ed19b76e35f3f6572b5b0ebde8abb028fd9365831ab0b7'}
+  - {seq: 0, role: markers, filename: assets/KR3eg044_000.markers.yaml, hash: 'sha256:495fa7778a3c14f45e64a330737e1ef3f61de613e92290954d0b79a2e3eb9f86'}
 table_of_contents:
 - ref:
     seq: 0
@@ -181,7 +181,7 @@ table_of_contents:
   label: 痙病與腦膜炎全書跋
   type: section
   level: 1
-hash: sha256:846ad433f987fbb96f8e5045ac2059485391f60f7549479f9275f1df5f3e1cc3
+hash: sha256:1a41486de72f0a0ca589a34ea006b0320d33aaa1cd2dd362338ede34fde640a0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
